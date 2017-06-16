@@ -1,0 +1,201 @@
+{	"frames": [	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/buttons/arrow",
+		"frame": {"x":0,"y":0,"w":127,"h":129}, 
+		"rotated": false, 
+		"trimmed": false, 
+		"spriteSourceSize": {"x":0,"y":0,"w":127,"h":129}, 
+		"sourceSize": {"w":127,"h":129} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/blue_idle_1",
+		"frame": {"x":220,"y":81,"w":14,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":9,"y":10,"w":14,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/blue_jump_1",
+		"frame": {"x":176,"y":27,"w":17,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":8,"y":10,"w":17,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/blue_run_1",
+		"frame": {"x":132,"y":81,"w":15,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":10,"y":10,"w":15,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/blue_run_2",
+		"frame": {"x":132,"y":108,"w":12,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":10,"y":10,"w":12,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/blue_run_3",
+		"frame": {"x":220,"y":54,"w":15,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":10,"y":10,"w":15,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/blue_run_4",
+		"frame": {"x":154,"y":27,"w":17,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":8,"y":10,"w":17,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/green_idle_1",
+		"frame": {"x":198,"y":81,"w":14,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":9,"y":10,"w":14,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/green_jump_1",
+		"frame": {"x":132,"y":27,"w":17,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":8,"y":10,"w":17,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/green_run_1",
+		"frame": {"x":198,"y":54,"w":15,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":10,"y":10,"w":15,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/green_run_2",
+		"frame": {"x":239,"y":81,"w":12,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":10,"y":10,"w":12,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/green_run_3",
+		"frame": {"x":176,"y":54,"w":15,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":10,"y":10,"w":15,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/green_run_4",
+		"frame": {"x":220,"y":0,"w":17,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":8,"y":10,"w":17,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/red_idle_1",
+		"frame": {"x":176,"y":81,"w":14,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":9,"y":10,"w":14,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/red_jump_1",
+		"frame": {"x":198,"y":0,"w":17,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":8,"y":10,"w":17,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/red_run_1",
+		"frame": {"x":154,"y":54,"w":15,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":10,"y":10,"w":15,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/red_run_2",
+		"frame": {"x":240,"y":54,"w":12,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":10,"y":10,"w":12,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/red_run_3",
+		"frame": {"x":132,"y":54,"w":15,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":10,"y":10,"w":15,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/red_run_4",
+		"frame": {"x":176,"y":0,"w":17,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":8,"y":10,"w":17,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/white_idle_1",
+		"frame": {"x":154,"y":81,"w":14,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":9,"y":10,"w":14,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/white_jump_1",
+		"frame": {"x":154,"y":0,"w":17,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":8,"y":10,"w":17,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/white_run_1",
+		"frame": {"x":220,"y":27,"w":15,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":10,"y":10,"w":15,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/white_run_2",
+		"frame": {"x":240,"y":27,"w":12,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":10,"y":10,"w":12,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/white_run_3",
+		"frame": {"x":198,"y":27,"w":15,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":10,"y":10,"w":15,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+,	{
+		"filename": "Users/ashleygwinnell/Projects/ark2d-imagepacker/data/player/white_run_4",
+		"frame": {"x":132,"y":0,"w":17,"h":22}, 
+		"rotated": false, 
+		"trimmed": true, 
+		"spriteSourceSize": {"x":8,"y":10,"w":17,"h":22}, 
+		"sourceSize": {"w":32,"h":32} 
+	}
+	], 	"meta": { 		"app": "http://forceofhab.it/", 		"version": "1.0", 		"image": "player-trimmed.png", 		"format": "RGBA8888", 		"size": {"w":256,"h":256}, 		"scale": "1.0", 		"smartupdate": "iam12andwhatisthisnothx" 	}}
