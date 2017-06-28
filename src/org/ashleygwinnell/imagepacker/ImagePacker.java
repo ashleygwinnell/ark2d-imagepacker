@@ -669,6 +669,8 @@ public class ImagePacker {
 			packer.setSpacing(spacing);
 
 			JSONArray files = o.getJSONArray("files");
+			ArrayList<File> processedFiles = new ArrayList<File>();
+
 			for(int j = 0; j < files.length(); j++) {
 				String file = files.getString(j);
 				if (gameDir.length() > 0) {
@@ -677,10 +679,24 @@ public class ImagePacker {
 				//System.out.println(file);
 				File f = new File(file);
 				if (!f.exists()) {
-					System.err.println("File \"" + file + "\" does not exist.");
-					return;
+					throw new Exception("File \"" + file + "\" does not exist.");
 				}
-				Image img = new Image(f);
+				else if (f.isDirectory()) {
+					System.err.println("File \"" + file + "\" is a directory.");
+					File[] listOfFiles = f.listFiles();
+					for(int k = 0; k < listOfFiles.length; k++) {
+						String subFileName = listOfFiles[k].getName();
+						if (subFileName.contains(".png") || subFileName.contains(".jpg")) {
+							processedFiles.add( listOfFiles[k] );
+						}
+					}
+					continue;
+				}
+				processedFiles.add(f);
+			}
+
+			for(int j = 0; j < processedFiles.size(); j++) {
+				Image img = new Image( processedFiles.get(j) );
 				//img.rotate();
 				packer.addImage(img);
 			}
@@ -723,6 +739,7 @@ public class ImagePacker {
 		try {
 			jsonString = args[0];
 			init(jsonString);
+			System.exit(0);
 		} catch (ArrayIndexOutOfBoundsException e) {
 			System.err.println("Missing command line JSON argument.");
 		} catch (JSONException e) {
@@ -738,6 +755,7 @@ public class ImagePacker {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+		System.exit(1);
 	}
 
 
